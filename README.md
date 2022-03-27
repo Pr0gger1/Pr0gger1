@@ -1,5 +1,5 @@
 ### Hi Everyone! 👋
-I'm a student of SfedU in the direction of applied computer science.
+I'm a student of ###SfedU### in the direction of applied computer science.
 
 
 - 🔭 I’m currently working on first-year project of university
