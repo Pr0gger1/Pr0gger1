@@ -1,9 +1,9 @@
 ### Hi Everyone! 👋
+I'm a student of SfedU in the direction of applied computer science.
 
-**Pr0gger1/Pr0gger1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pr0gger1&layout=compact&theme=dark&hide_border=true)
 - 🔭 I’m currently working on first-year project of university
-- 🌱 I’m currently learning ### Python, C#
+- 🌱 I’m currently learning ### Python, C#, PHP
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
