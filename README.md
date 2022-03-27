@@ -11,4 +11,3 @@ I'm a student of SfedU in the direction of applied computer science.
 - 📫 How to reach me:  **[Telegram](https://t.me/progger01), [VK](https://vk.com/lord_of_badcode)**
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: I love cookies, many cookies
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pr0gger1&layout=compact&theme=dark&hide_border=true)
