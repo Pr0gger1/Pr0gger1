@@ -2,7 +2,7 @@
 I'm a student of SfedU in the direction of applied computer science.
 
 
-- 🔭 I’m currently working on first-year project of university
+- 🔭 I finished my first-year project of university
 - 🌱 I’m currently learning Python, C#, PHP
 
 <!-- 👯 I’m looking to collaborate on ...
