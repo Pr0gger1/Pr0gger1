@@ -3,6 +3,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pr0gger1&theme=dracula)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pr0gger1&show_icons=true&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 I'm a student of SfedU in the direction of applied computer science.
 - 🔭 I finished my first-year project of university
 - 🌱 I’m currently learning Python, C#, algorithms
