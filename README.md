@@ -1,8 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=Pr0gger1)
 # Hi Everyone! 👋
 I'm a student of SfedU in the direction of applied computer science.
+<p style="display:inline-block;">![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pr0gger1&theme=dracula)</p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pr0gger1&theme=dracula) ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pr0gger1&theme=dracula)
 - 🔭 I finished my first-year project of university
 - 🌱 I’m currently learning Python, C#, algorithms
 
