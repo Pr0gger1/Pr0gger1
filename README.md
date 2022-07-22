@@ -2,6 +2,7 @@
 # Hi Everyone! 👋
 I'm a student of SfedU in the direction of applied computer science.
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pr0gger1&theme=dracula)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pr0gger1&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I finished my first-year project of university
 - 🌱 I’m currently learning Python, C#, algorithms
@@ -15,7 +16,6 @@ I'm a student of SfedU in the direction of applied computer science.
 
 ## My trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Pr0gger1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pr0gger1&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Most used languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pr0gger1&layout=compact&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pr0gger1&layout=compact&theme=dracula&hide_border=true)
