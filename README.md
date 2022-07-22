@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=Pr0gger1)
 ## Hi Everyone! 👋
-[![trophy](https://github-profile-trophy.vercel.app/?username=Pr0gger1)](https://github.com/Pr0gger1/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Pr0gger1&theme=dark)](https://github.com/Pr0gger1/github-profile-trophy)
 I'm a student of SfedU in the direction of applied computer science.
 
 
