@@ -4,7 +4,7 @@ I'm a student of SfedU in the direction of applied computer science.
 
 
 - 🔭 I finished my first-year project of university
-- 🌱 I’m currently learning Python, C#
+- 🌱 I’m currently learning Python, C#, algorithms
 
 <!-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
