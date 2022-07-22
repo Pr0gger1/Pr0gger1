@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=Pr0gger1)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+Everyone!+👋)](https://git.io/typing-svg)
 ## Hi Everyone! 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+Everyone!+👋)](https://git.io/typing-svg)
 I'm a student of SfedU in the direction of applied computer science.
 
 
