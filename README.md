@@ -19,3 +19,5 @@ I'm a student of SfedU in the direction of applied computer science.
 
 ## Most used languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pr0gger1&layout=compact&theme=dark&hide_border=true)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pr0gger1&theme=solarized_dark)
