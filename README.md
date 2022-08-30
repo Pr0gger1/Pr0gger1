@@ -3,6 +3,7 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pr0gger1&show_icons=true&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pr0gger1&layout=compact&theme=dracula&hide_border=true)
 
 
 I'm a student of SfedU in the direction of applied computer science.
