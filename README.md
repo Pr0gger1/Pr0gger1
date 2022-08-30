@@ -1,8 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=Pr0gger1)
 # Hi Everyone! 👋
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pr0gger1&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pr0gger1&layout=compact&theme=dracula&hide_border=true)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pr0gger1&show_icons=true&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
