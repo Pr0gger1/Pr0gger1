@@ -10,7 +10,7 @@ I'm a student of SfedU in the direction of applied computer science.
 - 📫 How to reach me:  **[Telegram](https://t.me/progger01), [VK](https://vk.com/4m0gus)**
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: I love cookies, lots of cookies
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pr0gger1&theme=dracula)
+    ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pr0gger1&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pr0gger1&layout=compact&theme=dracula&hide_border=true)
 
