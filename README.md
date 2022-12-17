@@ -14,3 +14,4 @@
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: I love cookies, lots of cookies
 - 🏋️ Hobby: watching anime, listening to rock music
+<img src="https://github.com/Pr0gger1/Pr0gger1/blob/main/assets/anime_rock.gif" alt="eeeeeee rock!">
