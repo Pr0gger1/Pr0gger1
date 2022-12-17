@@ -5,6 +5,7 @@
 </div>
 
 ## I'm a student of SfedU in the direction of applied computer science.
+<img align="right" src="https://github.com/Pr0gger1/Pr0gger1/blob/main/assets/anime_rock.gif" alt="eeeeeee rock!">
 - 🔭 I finished my first-year project of university
 - 🌱 I’m currently learning Python, C#, JS, C++
 <!-- 👯 I’m looking to collaborate on ...
@@ -14,3 +15,6 @@
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: I love cookies, lots of cookies
 - 🏋️ Hobby: watching anime, listening to rock music
+<!-- <div align="right">
+  <img align="right" src="https://github.com/Pr0gger1/Pr0gger1/blob/main/assets/anime_rock.gif" alt="eeeeeee rock!">
+</div> -->
