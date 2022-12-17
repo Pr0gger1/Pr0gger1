@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=Pr0gger1)
 # Hi Everyone! 👋
-<img src="https://github.com/Pr0gger1/Pr0gger1/blob/main/assets/menhera-chan-chibi.gif" alt="Hello" align="center"/>
+<img align="center" src="https://github.com/Pr0gger1/Pr0gger1/blob/main/assets/menhera-chan-chibi.gif" alt="Hello">
 
 I'm a student of SfedU in the direction of applied computer science.
 - 🔭 I finished my first-year project of university
