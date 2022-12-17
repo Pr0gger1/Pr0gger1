@@ -4,8 +4,8 @@
   <img align="center" width="500px" src="https://github.com/Pr0gger1/Pr0gger1/blob/main/assets/menhera-chan-chibi.gif" alt="Hello">
 </div>
 
-## I'm a student of SfedU in the direction of applied computer science.
 <img align="right" src="https://github.com/Pr0gger1/Pr0gger1/blob/main/assets/anime-evangelion.gif" alt="eva">
+## I'm a student of SfedU in the direction of applied computer science.
 - 🔭 I finished my first-year project of university
 - 🌱 I’m currently learning Python, C#, JS, C++
 <!-- 👯 I’m looking to collaborate on ...
