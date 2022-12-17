@@ -5,7 +5,7 @@
 </div>
 
 ## I'm a student of SfedU in the direction of applied computer science.
-<img align="right" src="https://github.com/Pr0gger1/Pr0gger1/blob/main/assets/anime_rock.gif" alt="eeeeeee rock!">
+<img align="right" src="https://github.com/Pr0gger1/Pr0gger1/blob/main/assets/anime-evangelion.gif" alt="eva">
 - 🔭 I finished my first-year project of university
 - 🌱 I’m currently learning Python, C#, JS, C++
 <!-- 👯 I’m looking to collaborate on ...
