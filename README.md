@@ -35,4 +35,4 @@ I'm a second-year student of SfedU in the direction of applied computer scienceð
 ### Other
 [![My Skills](https://skillicons.dev/icons?i=git,linux&theme=dark)](https://skillicons.dev)
 
-[![Codewars Badge](https://www.codewars.com/users/dhanushka/badges/large)](https://www.codewars.com/users/ProgramMaster280)
+[![Codewars Badge](https://www.codewars.com/users/ProgramMaster280/badges/large)](https://www.codewars.com/users/ProgramMaster280)
