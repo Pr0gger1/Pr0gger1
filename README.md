@@ -18,7 +18,7 @@ I'm a second-year student of SfedU in the direction of applied computer scienceð
 
 ## Skills
 ### Programming languages
-[![My Skills](https://skillicons.dev/icons?i=py,js,c,cpp,cs,java,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,ts,c,cpp,cs,java,&theme=dark)](https://skillicons.dev)
 
 
 ### Frontend development
@@ -31,3 +31,6 @@ I'm a second-year student of SfedU in the direction of applied computer scienceð
 
 ### Software
 [![My Skills](https://skillicons.dev/icons?i=figma,vscode,idea&theme=dark)](https://skillicons.dev)
+
+### Other
+[![My Skills](https://skillicons.dev/icons?i=git,linux&theme=dark)](https://skillicons.dev)
