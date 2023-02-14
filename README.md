@@ -18,6 +18,8 @@ I'm a second-year student of SfedU in the direction of applied computer scienceð
 
 ## Skills
 ### Programming languages
+
+[![My Skills](https://skillicons.dev/icons?i=py,js,c,cpp,cs,java,&theme=dark)](https://skillicons.dev)
 <p>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
