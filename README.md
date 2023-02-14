@@ -22,7 +22,7 @@ I'm a second-year student of SfedU in the direction of applied computer scienceð
 
 
 ### Frontend development
-[![My Skills](https://skillicons.dev/icons?i=html,css,reacta&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,react&theme=dark)](https://skillicons.dev)
 
            
 ### Backend and database
