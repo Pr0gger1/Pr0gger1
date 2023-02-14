@@ -36,8 +36,6 @@ I'm a second-year student of SfedU in the direction of applied computer scienceð
 [![My Skills](https://skillicons.dev/icons?i=git,linux&theme=dark)](https://skillicons.dev)
 
 ### Stats
-<div>
  [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Pr0gger1)](https://leetcode.com/Pr0gger1/) 
  [![Codewars Badge](https://www.codewars.com/users/ProgramMaster280/badges/large)](https://www.codewars.com/users/ProgramMaster280)
-</div>
 
