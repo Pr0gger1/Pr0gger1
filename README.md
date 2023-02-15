@@ -8,6 +8,12 @@ I'm a second-year student of SfedU in the direction of applied computer science�
 - ⚡ Fun fact: I love cookies, lots of cookies
 - 🏋️ Hobby: watching anime, listening to rock music
 
+### Stats
+<p style="display: flex;">
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pr0gger1&theme=moonlight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pr0gger1&theme=moonlight)
+</p>
+
 ## Socials
  <a href="https://t.me/progger01" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
