@@ -10,9 +10,11 @@ I'm a second-year student of SfedU in the direction of applied computer scienceð
 
 ### Stats
 <p style="display: flex;">
+ 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pr0gger1&theme=moonlight)
  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pr0gger1&theme=moonlight)
+ 
 </p>
 
 ## Socials
