@@ -3,7 +3,6 @@
 
 ### ✌️About me
 I'm a second-year student of SfedU in the direction of applied computer science🎓.
-- 🔭 I finished my first-year project of university
 - 🌱 I’m currently learning Python, JS, C++, Java, TypeScript
 - ⚡ Fun fact: I love cookies, lots of cookies
 - 🏋️ Hobby: watching anime, listening to rock music, computer games
