@@ -2,7 +2,7 @@
 # Hi everyone! 👋 My name is Artem
 
 ### ✌️About me
-I'm a third-year student of SfedU in the direction of applied computer science🎓.
+I'm a fourth-year student of SfedU in the direction of applied computer science🎓.
 - ⚡ Fun fact: I love cookies, lots of cookies
 - 🏋️ Hobby: playing guitar, computer games
 
