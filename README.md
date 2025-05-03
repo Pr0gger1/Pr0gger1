@@ -24,11 +24,11 @@ I'm a fourth-year student of SfedU in the direction of applied computer scienceð
 
            
 ### Backend and database
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,postgres&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,spring,postgres&theme=dark)](https://skillicons.dev)
 
 
 ### Software
-[![My Skills](https://skillicons.dev/icons?i=figma,vscode,idea&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,vscode,webstorm,idea&theme=dark)](https://skillicons.dev)
 
 ### Other
 [![My Skills](https://skillicons.dev/icons?i=git,linux&theme=dark)](https://skillicons.dev)
