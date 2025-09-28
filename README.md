@@ -6,6 +6,8 @@ I have completed my Bachelor's degree in Applied Computer Science and now I enro
 - ⚡ Fun fact: I love cookies, lots of cookies
 - 🏋️ Hobby: playing guitar, computer games
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Pr0gger1&theme=discord-old-blurple)](https://git.io/streak-stats)
+
 ## Socials
  <a href="https://t.me/progger01" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
@@ -13,8 +15,6 @@ I have completed my Bachelor's degree in Applied Computer Science and now I enro
 <a href="https://vk.com/4m0gus" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
 </a>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Pr0gger1&theme=discord-old-blurple)](https://git.io/streak-stats)
 
 ## Skills
 ### Programming languages
