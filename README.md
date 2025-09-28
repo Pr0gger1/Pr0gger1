@@ -14,6 +14,8 @@ I have completed my Bachelor's degree in Applied Computer Science and now I enro
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
 </a>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Pr0gger1&theme=discord-old-blurple)](https://git.io/streak-stats)
+
 ## Skills
 ### Programming languages
 [![My Skills](https://skillicons.dev/icons?i=py,js,ts,java,kotlin,&theme=dark)](https://skillicons.dev)
