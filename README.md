@@ -24,7 +24,7 @@ I have completed my Bachelor's degree in Applied Computer Science and now I enro
 
            
 ### Backend and database
-[![My Skills](https://skillicons.dev/icons?i=nodejs,spring,postgres,redis,kafka&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,spring,postgres,redis,kafka,docker&theme=dark)](https://skillicons.dev)
 
 
 ### Software
