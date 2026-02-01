@@ -16,11 +16,11 @@ I have completed my Bachelor's degree in Applied Computer Science and now I enro
 
 ## Skills
 ### Programming languages
-[![My Skills](https://skillicons.dev/icons?i=py,js,ts,java,kotlin,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,ts,java,kotlin,dart&theme=dark)](https://skillicons.dev)
 
 
 ### Frontend development
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,react,nextjs,pnpm&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,react,nextjs,pnpm,flutter&theme=dark)](https://skillicons.dev)
 
            
 ### Backend and database
