@@ -6,6 +6,8 @@ I have completed my Bachelor's degree in Applied Computer Science and now I enro
 - ⚡ Fun fact: I love cookies, lots of cookies
 - 🏋️ Hobby: playing guitar, computer games
 
+Attention! Some my projects are located in certain organizations
+
 ## Socials
  <a href="https://t.me/progger01" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
