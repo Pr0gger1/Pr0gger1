@@ -1,12 +1,13 @@
 ![](https://komarev.com/ghpvc/?username=Pr0gger1)
+
+# Attention! Some my projects are located in certain organizations
+
 # Hi everyone! 👋 My name is Artem
 
 ### ✌️About me
 I have completed my Bachelor's degree in Applied Computer Science and now I enrolled in a master's degree program🎓.
 - ⚡ Fun fact: I love cookies, lots of cookies
 - 🏋️ Hobby: playing guitar, computer games
-
-Attention! Some my projects are located in certain organizations
 
 ## Socials
  <a href="https://t.me/progger01" target="_blank">
